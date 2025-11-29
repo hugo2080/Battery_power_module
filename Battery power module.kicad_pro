@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.75,
+          "height": 1.75,
+          "width": 1.2
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -60,7 +60,11 @@
       ],
       "drc_exclusions": [
         [
-          "starved_thermal|131289000|101498400|f74d5d42-d1d3-4811-a4d7-f9e1a9d58aaa|6398f784-63fd-4e8a-a03a-dad9eb26c5c5|F.Cu",
+          "lib_footprint_mismatch|123952000|98552000|acef5001-0709-4759-b0ce-0ee2c284110a|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "starved_thermal|126390400|98037600|f74d5d42-d1d3-4811-a4d7-f9e1a9d58aaa|0b9d3429-eb8e-454f-a2de-07949d07376d|F.Cu",
           ""
         ]
       ],
@@ -193,7 +197,7 @@
       "track_widths": [
         0.0,
         0.254,
-        0.512
+        0.508
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -505,7 +509,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

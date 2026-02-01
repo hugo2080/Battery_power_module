@@ -42,4 +42,4 @@ Based on the project configuration, the files are organized as follows:
 This documentation is distributed **WITHOUT ANY EXPRESS OR IMPLIED WARRANTY**, including of merchantability, satisfactory quality, and fitness for a particular purpose. Use this hardware at your own risk. Please see the CERN OHL v.1.2 for applicable conditions.
 
 ---
-Copyright hugo 2026
+Copyright hugo2080 2025

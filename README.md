@@ -4,7 +4,7 @@
 
 Battery power module for bathroom scale
 
-Place a 0.7V forward voltage rectifier diode, e.g. 1N4007, between pin 2 of connector J2 and VDD of the MCU board, with the anode facing J2, to reduce the voltage to a safe 3.6V.
+Place a 0.7V forward voltage rectifier diode, e.g. 1N4007, between pin 2 of connector J2 and VDD of the MCU board, with the anode facing J2, to reduce the voltage to a safe 3.6 V.
 
 ## Licensing
 

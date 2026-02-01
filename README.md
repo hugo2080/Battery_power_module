@@ -11,7 +11,7 @@ Place a 0.7 V forward voltage rectifier diode, e.g. 1N4007, between pin 2 of con
 This project is released under the **CERN Open Hardware Licence v1.2**.
 
 * **Hardware Documentation:** Licensed under the terms of CERN OHL v.1.2. See `cern_ohl_v_1_2.txt` for the full license text.
-* **Software/Firmware (if applicable):** none.
+* **Software/Firmware:** none.
 * **Documentation Location:** https://github.com/hugo2080/Battery_power_module
 
 > **Note:** As per the license requirements, any redistribution or modification of this project must retain the original copyright notices and the license text.
